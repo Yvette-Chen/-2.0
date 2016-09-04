@@ -7,3 +7,7 @@
 还功能，还要求有上架、下架、修改书籍，标记黑名单。当用户被标记黑名单后，借阅期限变为半个月，非<br>
 黑名单用户为一个月。<br>
 ##系统功能图：<br>
+![project4](https://github.com/Yvette-Chen/-2.0/raw/master/project4.png)
+##类关系图：<br>
+![class p4](https://github.com/Yvette-Chen/-2.0/raw/master/class p4.png)
+如果有任何问题，都可以通过邮箱联系我1120932734@qq.com
